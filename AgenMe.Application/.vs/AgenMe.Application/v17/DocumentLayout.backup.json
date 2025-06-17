@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC78D28A-5507-45EE-AFDD-866FA0E0428C}|..\\AgenMe.Tests\\AgenMe.Tests.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A990B9C-ADF6-403A-BFD3-116B5971427A}|..\\AgenMe.Infrastructure\\AgenMe.Infrastructure.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA5CFFE-ED7C-456B-B2EC-87A01D522121}|AgenMe.Application.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA5CFFE-ED7C-456B-B2EC-87A01D522121}|AgenMe.Application.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Tests\\Class1.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Tests\\Class1.cs",
+              "RelativeToolTip": "..\\AgenMe.Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:24:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\AgenMe.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:24:13.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\AgenMe.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:21:43.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Application\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:20:02.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
