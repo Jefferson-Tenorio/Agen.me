@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\repository\\iagendamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\repository\\iservicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\agenme.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\entitie\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\entitie\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\entitie\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E3AC19-CDC9-4D7C-90F7-A91B7712F1DA}|..\\AgenMe.Domain\\AgenMe.Domain.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.domain\\enums\\statuspagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC78D28A-5507-45EE-AFDD-866FA0E0428C}|..\\AgenMe.Tests\\AgenMe.Tests.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A990B9C-ADF6-403A-BFD3-116B5971427A}|..\\AgenMe.Infrastructure\\AgenMe.Infrastructure.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA5CFFE-ED7C-456B-B2EC-87A01D522121}|AgenMe.Application.csproj|c:\\users\\c8700\\onedrive\\documentos\\workspaceagen.me\\agenme.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA5CFFE-ED7C-456B-B2EC-87A01D522121}|AgenMe.Application.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Repository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\Repository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Repository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "..\\AgenMe.Domain\\Repository\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:42:32.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServicoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Repository\\IServicoRepository.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\Repository\\IServicoRepository.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Repository\\IServicoRepository.cs",
+              "RelativeToolTip": "..\\AgenMe.Domain\\Repository\\IServicoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:41:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAgendamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Repository\\IAgendamentoRepository.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\Repository\\IAgendamentoRepository.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Repository\\IAgendamentoRepository.cs",
+              "RelativeToolTip": "..\\AgenMe.Domain\\Repository\\IAgendamentoRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:40:44.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Entitie\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\Entitie\\Usuario.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Entitie\\Usuario.cs",
+              "RelativeToolTip": "..\\AgenMe.Domain\\Entitie\\Usuario.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:39:44.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Entitie\\Servico.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\Entitie\\Servico.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Entitie\\Servico.cs",
+              "RelativeToolTip": "..\\AgenMe.Domain\\Entitie\\Servico.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:38:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatusPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Enums\\StatusPagamento.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\Enums\\StatusPagamento.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Enums\\StatusPagamento.cs",
+              "RelativeToolTip": "..\\AgenMe.Domain\\Enums\\StatusPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:46:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Entitie\\Agendamento.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\Entitie\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\Entitie\\Agendamento.cs",
+              "RelativeToolTip": "..\\AgenMe.Domain\\Entitie\\Agendamento.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:43:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgenMe.Domain",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\AgenMe.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\AgenMe.Domain\\AgenMe.Domain.csproj",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Domain\\AgenMe.Domain.csproj",
+              "RelativeToolTip": "..\\AgenMe.Domain\\AgenMe.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T22:42:20.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Tests\\Class1.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Tests\\Class1.cs",
+              "RelativeToolTip": "..\\AgenMe.Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:24:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AgenMe.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\AgenMe.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:24:13.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Application\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:20:02.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
