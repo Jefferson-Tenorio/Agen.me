@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0CeBDcVk0QM=",
+  "dgSpecHash": "1dRA0ETueKo=",
   "success": true,
   "projectFilePath": "C:\\Users\\c8700\\OneDrive\\Documentos\\WorkSpaceAgen.me\\AgenMe.Application\\AgenMe.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\c8700\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\c8700\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\c8700\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\c8700\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
