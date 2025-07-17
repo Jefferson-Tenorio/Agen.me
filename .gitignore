@@ -1,0 +1,19 @@
+#pasta build
+bin/
+obj/
+Release/
+Degub/
+
+#temporario do vs code
+.vs/
+*.user
+*.suo
+*.userosschace
+*.sln.doctates
+
+*.log
+*.bank
+
+
+
+
